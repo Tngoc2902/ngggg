@@ -1,0 +1,15 @@
+Đây là thông tin của linh bộ
+Tên: Nguyen Van A
+Tuổi: 25
+Số lần luyện tập: 12
+Đây là thông tin của linh thủy
+Tên: Tran Van B
+Tuổi: 30
+Số km hành quân: 14
+Đây là thông tin của bộ đội
+Tên: Nguyễn Văn c
+Tuổi: 25
+Đây là thông tin của linh thủy
+Tên: Tran Van D
+Tuổi: 30
+Số km hành quân: 14

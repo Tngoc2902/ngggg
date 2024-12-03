@@ -1,0 +1,1 @@
+Ten: ngoc, Tuoi: 22, Dia chi: ha noi, Kinh nghiem: 2, Loai hinh tho ho: tu pht, Ky nang hien co: phu vua, He so luong tho ho: 20, So gio lam viec tho ho: 10000
